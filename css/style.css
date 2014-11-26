@@ -44,7 +44,7 @@ section { overflow: hidden; }
 h1, h2 { margin: 0; }
 
 h1 {
-	font-family: 'Parisienne', cursive;
+	font-family: abc;
 	font-size: 80px;
 	font-weight: 700;
 	line-height: 80px;
